@@ -1,5 +1,5 @@
 Assesment 1:
-In assesment 1,I print the hello in Python.
+In assesment 1,This Python script prints "Hello Python" to the console.
 
 Assesment 2:
 In assesment 2,
